@@ -39,6 +39,7 @@
         <maven-replacer-plugin.version>1.5.3</maven-replacer-plugin.version>
 
         <formatterConfigPath>formatter.xml</formatterConfigPath>
+        <runtimeVersion>4.3.0-SNAPSHOT</runtimeVersion>
     </properties>
 
     <dependencies>
